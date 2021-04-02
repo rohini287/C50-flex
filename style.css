@@ -1,0 +1,19 @@
+h1{
+    background-color: aliceblue;
+}
+.header{
+    display: flex;
+   flex-direction: column;
+    background-color: aquamarine;
+}
+.games{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    background-color: sandybrown;
+    display: flex;
+    justify-content: flex-end;
+}
+
